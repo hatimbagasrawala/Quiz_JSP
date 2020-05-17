@@ -1,0 +1,30 @@
+			.button
+			{
+				background-color:#40a4df; /* Green #4CAF50*/
+				border: none;
+				color: white;
+				padding: 9px 90px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+                margin: 10px 20px;
+			}
+			body
+			{
+				  background-size:cover;
+			}
+			.MAIN
+			{
+				border-style:solid;
+				height:550px;
+				width:350px;
+				background-color:#F2EEEE;
+				margin: 50px 350px 50px 350px;
+				font-family:cursive;
+				
+			}
+			.textbox
+			{
+				height:30px;
+			}	
